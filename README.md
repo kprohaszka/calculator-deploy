@@ -82,9 +82,8 @@
 <!-- ABOUT THE PROJECT -->
 ## 📚 About The Project
 
-[![Calculator][product-screenshot]](https://github.com/kprohaszka/calculator-deploy)
-[![Calculator][product-snippet]](https://github.com/kprohaszka/calculator-deploy)
-[![Calculator][product-gif]](https://github.com/kprohaszka/calculator-deploy)
+[product-snippet]](https://github.com/kprohaszka/calculator-deploy)
+[product-gif]](https://github.com/kprohaszka/calculator-deploy)
 
 The aim of the following project is to learn more about SOAP web services
 by deploying a simple calculator app using a local TomCat Web Server.
@@ -254,5 +253,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/konradprohaszka
 [product-screenshot]: images/screenshot.png
-[product-snippet]: https://postimg.cc/tYs9q40p][img]https://i.postimg.cc/tYs9q40p/carbon.png
+[product-snippet]: https://i.postimg.cc/QxbCqF09/carbon.png
 [product-gif]: https://i.postimg.cc/RFW9wFqt/Animation4.gif

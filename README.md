@@ -82,8 +82,8 @@
 <!-- ABOUT THE PROJECT -->
 ## 📚 About The Project
 
-[product-snippet]](https://github.com/kprohaszka/calculator-deploy)
-[product-gif]](https://github.com/kprohaszka/calculator-deploy)
+[product-snippet](https://github.com/kprohaszka/calculator-deploy)
+[product-gif](https://github.com/kprohaszka/calculator-deploy)
 
 The aim of the following project is to learn more about SOAP web services
 by deploying a simple calculator app using a local TomCat Web Server.

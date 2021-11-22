@@ -233,7 +233,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [My First Revit Plug-in Overview](https://knowledge.autodesk.com/search-result/caas/simplecontent/content/my-first-revit-plug-overview.html)
 * [Revit: Creating C# Plugins](https://www.linkedin.com/learning/revit-creating-c-sharp-plugins)
 * [MyFirstPlugin](https://thebuildingcoder.typepad.com/files/revit_2013_api_my_first_plug-in_training.pdf)
-* [RevitSoftware](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription)
+* [RevitSoftwaree](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

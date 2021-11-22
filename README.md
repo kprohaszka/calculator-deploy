@@ -82,8 +82,9 @@
 <!-- ABOUT THE PROJECT -->
 ## 📚 About The Project
 
-![product-snippet]([product-snippet])
-![product-gif]([product-gif])
+![code-snippet](https://i.postimg.cc/QxbCqF09/carbon.png)
+![code-gif](https://i.postimg.cc/RFW9wFqt/Animation4.gif)
+
 
 The aim of the following project is to learn more about SOAP web services
 by deploying a simple calculator app using a local TomCat Web Server.

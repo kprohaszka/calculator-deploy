@@ -228,12 +228,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## 💎 Acknowledgments
 
-* [Step-by-Step Guide to Developing your First Revit Plugin](http://aectechy.com/stepbystep-guide-to-your-first-revit-plugin/)
-* [Pushing Revit to the Next Level: An Intro to Revit Plugins with C#](https://www.autodesk.com/autodesk-university/class/Pushing-Revit-Next-Level-Intro-Revit-Plugins-C-2018)
-* [My First Revit Plug-in Overview](https://knowledge.autodesk.com/search-result/caas/simplecontent/content/my-first-revit-plug-overview.html)
-* [Revit: Creating C# Plugins](https://www.linkedin.com/learning/revit-creating-c-sharp-plugins)
-* [MyFirstPlugin](https://thebuildingcoder.typepad.com/files/revit_2013_api_my_first_plug-in_training.pdf)
-* [RevitSoftwaree](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription)
+### 🌎 Websites and Guides
+
+* [Apache Tomcat](https://tomcat.apache.org/download-10.cgi)
+* [Java](https://www.java.com/en/download/manual.jsp)
+* [Oracle](https://docs.oracle.com/goldengate/1212/gg-winux/GDRAD/java.htm#BGBFJHAB)
+* [Eclipse](https://www.eclipse.org/)
+* [Eclipse Axis error when creating web service](https://stackoverflow.com/questions/8150698/eclipse-axis-error-when-creating-web-service)
+* [Axis2](https://axis.apache.org/axis2/java/core/tools/eclipse/plugin-installation.html)
+* [How to add Apache Axis2 web service runtime to Eclipse](https://stackoverflow.com/questions/24526548/how-to-add-apache-axis2-web-service-runtime-to-eclipse)
+* [Creating a Java SOAP Service with Eclipse and Tomcat](https://www.pegaxchange.com/2016/05/01/java-soap-service-eclipse-tomcat/)
+* [SOAP](https://en.wikipedia.org/wiki/SOAP)
+
+### 📽 Videos
+
+* [SOAP Web Service using Apache Tomcat in Eclipse](https://www.youtube.com/watch?v=hfa2_4MkM6Q)
+* [Apache TomCat in Eclipse](https://www.youtube.com/watch?v=fiKtLc4Zrow)
+* [SOAP WebService using Eclipse](https://www.youtube.com/watch?v=1TympcH1fJ0&t=609s)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
